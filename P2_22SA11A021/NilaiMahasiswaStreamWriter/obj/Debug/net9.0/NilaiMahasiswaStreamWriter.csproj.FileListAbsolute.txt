@@ -1,0 +1,15 @@
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/bin/Debug/net9.0/NilaiMahasiswaStreamWriter
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/bin/Debug/net9.0/NilaiMahasiswaStreamWriter.deps.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/bin/Debug/net9.0/NilaiMahasiswaStreamWriter.runtimeconfig.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/bin/Debug/net9.0/NilaiMahasiswaStreamWriter.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/bin/Debug/net9.0/NilaiMahasiswaStreamWriter.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.AssemblyInfoInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.AssemblyInfo.cs
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.csproj.CoreCompileInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.sourcelink.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/refint/NilaiMahasiswaStreamWriter.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/NilaiMahasiswaStreamWriter.genruntimeconfig.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaStreamWriter/obj/Debug/net9.0/ref/NilaiMahasiswaStreamWriter.dll

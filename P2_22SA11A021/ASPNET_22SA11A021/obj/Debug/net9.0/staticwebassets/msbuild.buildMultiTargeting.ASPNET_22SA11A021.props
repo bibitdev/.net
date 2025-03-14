@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ASPNET_22SA11A021.props" />
+</Project>

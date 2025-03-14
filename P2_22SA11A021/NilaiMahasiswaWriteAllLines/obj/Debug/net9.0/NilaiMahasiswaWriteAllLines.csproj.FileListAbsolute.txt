@@ -1,0 +1,15 @@
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/bin/Debug/net9.0/NilaiMahasiswaWriteAllLines
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/bin/Debug/net9.0/NilaiMahasiswaWriteAllLines.deps.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/bin/Debug/net9.0/NilaiMahasiswaWriteAllLines.runtimeconfig.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/bin/Debug/net9.0/NilaiMahasiswaWriteAllLines.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/bin/Debug/net9.0/NilaiMahasiswaWriteAllLines.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.AssemblyInfoInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.AssemblyInfo.cs
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.csproj.CoreCompileInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.sourcelink.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/refint/NilaiMahasiswaWriteAllLines.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/NilaiMahasiswaWriteAllLines.genruntimeconfig.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/NilaiMahasiswaWriteAllLines/obj/Debug/net9.0/ref/NilaiMahasiswaWriteAllLines.dll
