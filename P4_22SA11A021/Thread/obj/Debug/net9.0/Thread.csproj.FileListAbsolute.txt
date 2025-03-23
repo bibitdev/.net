@@ -1,0 +1,15 @@
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.AssemblyInfoInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.AssemblyInfo.cs
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.csproj.CoreCompileInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.sourcelink.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/bin/Debug/net9.0/Thread
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/bin/Debug/net9.0/Thread.deps.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/bin/Debug/net9.0/Thread.runtimeconfig.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/bin/Debug/net9.0/Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/bin/Debug/net9.0/Thread.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/refint/Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/Thread.genruntimeconfig.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/Thread/obj/Debug/net9.0/ref/Thread.dll

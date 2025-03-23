@@ -1,0 +1,15 @@
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/bin/Debug/net9.0/Non_Thread
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/bin/Debug/net9.0/Non_Thread.deps.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/bin/Debug/net9.0/Non_Thread.runtimeconfig.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/bin/Debug/net9.0/Non_Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/bin/Debug/net9.0/Non_Thread.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.AssemblyInfoInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.AssemblyInfo.cs
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.csproj.CoreCompileInputs.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.sourcelink.json
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/refint/Non_Thread.dll
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.pdb
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/Non_Thread.genruntimeconfig.cache
+/Users/bibitraikhazzaki/Documents/kuliah/SEMESTER 6/SISTEM_TEDISTRIBUSI/P4_22SA11A021/NonThread/obj/Debug/net9.0/ref/Non_Thread.dll
